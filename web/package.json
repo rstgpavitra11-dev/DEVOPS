@@ -1,0 +1,17 @@
+{
+  "name": "fullstack-demo-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
+  }
+}
+
